@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-valdo&theme=radical&layout=default&langs_count=8&hide=Perl,Shell,Batchfile,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-valdo&theme=radical&layout=compact&langs_count=8&hide=Perl,Shell,Batchfile,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
